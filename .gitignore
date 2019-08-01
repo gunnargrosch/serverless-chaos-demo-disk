@@ -1,0 +1,10 @@
+*.pyc
+*.zip
+.DS_Store
+.vendor
+_pycache_
+__pycache__
+venv
+.vscode
+.serverless
+env.yml
